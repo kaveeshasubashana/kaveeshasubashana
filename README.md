@@ -2,7 +2,7 @@
 
 🔭 **Interests**  
 - Frontend & Backend Web Development 🌐  
-- Data Science & Visualization 📊  
+- software development. 📊  
 - Cybersecurity & Ethical Hacking 🔒  
 - Exploring Open Source Contributions 🤝  
 
