@@ -7,7 +7,7 @@
 - Exploring Open Source Contributions 🤝  
 
 🌱 **Currently Learning**  
-- Mastering **React.js** & **Next.js** 🚀  
+- Mastering **OOP with Java** & **Python** 🚀  
 - Deepening my knowledge in **Machine Learning** with Python 🤖  
 - Exploring the future of **Blockchain Technology** ⛓️  
 
