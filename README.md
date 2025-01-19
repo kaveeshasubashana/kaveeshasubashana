@@ -9,7 +9,7 @@
 🌱 **Currently Learning**  
 - Mastering **OOP with Java** & **Python** & **Java**🚀  
 - Deepening my knowledge in **Machine Learning** with Python 🤖  
-- Exploring the future of **Blockchain Technology** ⛓️  
+ 
 
 🤝 **Looking to Collaborate On**  
 - Impactful **open-source projects**  
