@@ -17,7 +17,7 @@
 
 📫 **Reach Me At**  
 - **Email**: [kavee640@gmail.com]  
-- **LinkedIn**: 
+
  
 
 👤 **Pronouns**  
