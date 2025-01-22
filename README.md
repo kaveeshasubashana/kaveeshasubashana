@@ -8,7 +8,7 @@
 
 🌱 **Currently Learning**  
 - Mastering **OOP with Java** & **Python** & **Java**🚀  
-- Deepening my knowledge in **Machine Learning** with Python 🤖  
+- Deepening my knowledge in **Machine Learning** with Python   
  
 
 🤝 **Looking to Collaborate On**  
