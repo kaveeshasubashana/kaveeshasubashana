@@ -16,7 +16,7 @@
 - Creative **web and mobile applications**  
 
 📫 **Reach Me At**  
-- **Email**: [kavee640@gmail.com]  
+- 
 
 
 <h3 align="left">Languages and Tools:</h3>
