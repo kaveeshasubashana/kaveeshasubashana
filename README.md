@@ -7,7 +7,8 @@
 - Exploring Open Source Contributions 🤝  
 
 🌱 **Currently Learning**  
-- Mastering **OOP with Java** & **Python** & **Java**🚀  
+- Mastering **OOP with Java** & **Python** & **Java**🚀
+- MERN stack 
 - Deepening my knowledge in **Machine Learning** with Python  🤖 
  
 
