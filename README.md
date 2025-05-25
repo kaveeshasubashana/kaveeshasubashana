@@ -16,8 +16,6 @@
 - Impactful **open-source projects**  
 - Creative **web and mobile applications**  
 
-📫 **Reach Me At**  
-- 
 
 
 <h3 align="left">Languages and Tools:</h3>
