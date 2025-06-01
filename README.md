@@ -7,7 +7,7 @@
 - Exploring Open Source Contributions 🤝  
 
 🌱 **Currently Learning**  
-- Mastering **OOP with Java**
+- Java & Object-Oriented Programming 
 - MERN Stack (MongoDB, Express.js, React, Node.js)  
 
  
