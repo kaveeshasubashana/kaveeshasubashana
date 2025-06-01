@@ -8,7 +8,7 @@
 
 🌱 **Currently Learning**  
 - Mastering **OOP with Java**
-- MERN stack 
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
 
  
 
