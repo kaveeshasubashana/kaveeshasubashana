@@ -21,5 +21,3 @@
 
 
 
-🎉 **Fun Fact**  
-When I'm not coding, you'll find me solving Rubik's cubes or uncovering hidden travel gems! 🌍  
