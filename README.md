@@ -4,7 +4,8 @@
 - Frontend & Backend Web Development 🌐  
 - software development. 📊  
 - Cybersecurity & Ethical Hacking 🔒  
-- Exploring Open Source Contributions 🤝  
+- Exploring Open Source Contributions 🤝
+- Cloud computing 🌨️💻
 
 🌱 **Currently Learning**  
 - Java & Object-Oriented Programming 
