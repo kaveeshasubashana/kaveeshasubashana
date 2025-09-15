@@ -11,6 +11,7 @@
 - Java & Object-Oriented Programming 
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - Bash scripting
+- Flutter
 
  
 
