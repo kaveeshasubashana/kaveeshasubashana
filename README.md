@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kaveesha Subashana....
 
 🔭 **Interests**  
-- Frontend & Backend Web Development 🌐  
+- machine learning 🌐  
 - software development. 📊  
 - Cybersecurity & Ethical Hacking 🔒  
 - Exploring Open Source Contributions 🤝
