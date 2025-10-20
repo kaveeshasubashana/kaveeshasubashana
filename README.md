@@ -8,7 +8,7 @@
 - Cloud computing 🌨️💻
 
 ## 🌱 Currently Learning
-- **Python** – Programming and scripting for AI and software development  
+- **Python** – Programming and scripting for AI and software development  🐍
 - **Machine Learning & Deep Learning** – Building models and understanding AI algorithms  🤖
 - **Java (OOP)** – Object-oriented programming fundamentals  ☕♨
 - **Docker** – Containerization and deployment of applications 🐋 
