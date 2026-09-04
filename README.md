@@ -1,4 +1,4 @@
-#                          👋 Hey, I'm YOUR_NAME!
+# 👋 Hey, I'm YOUR_NAME!
 
 ### 💻 Full-Stack Developer | Laravel Developer | UI/UX Enthusiast
 
@@ -41,19 +41,6 @@ I'm a passionate developer who enjoys building **modern web applications, busine
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
