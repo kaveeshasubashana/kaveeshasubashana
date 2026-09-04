@@ -1,42 +1,145 @@
-# Hi there! 👋 I'm Kaveesha Subashana....
+# 👋 Hey, I'm YOUR_NAME!
 
-🔭 **Interests**  
-- Machine Learning, Deep Learning, Generative AI 🌐  
-- software development. 📊  
-- Cybersecurity & Ethical Hacking 🔒  
-- Exploring Open Source Contributions 🤝
-- Cloud computing 🌨️💻
+### 💻 Full-Stack Developer | Laravel Developer | UI/UX Enthusiast
 
-## 🌱 Currently Learning
-- **Python** – Programming and scripting for AI and software development  🐍
-- **Machine Learning & Deep Learning** – Building models and understanding AI algorithms  🤖
-- **Java (OOP)** – Object-oriented programming fundamentals  ☕♨
-- **Docker** – Containerization and deployment of applications 🐋 
- 
+> *"Turning ideas into clean, functional, and beautiful digital experiences."* 🚀
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+Developer;Web+Application+Builder;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+---
 
+## 🧑‍💻 About Me
 
+I'm a passionate developer who enjoys building **modern web applications, business systems, and creative digital experiences**.
 
+* 🔭 Currently working on **Web Applications & Laravel Projects**
+* 🌱 Currently learning **Advanced Laravel, PHP & Modern Web Technologies**
+* 💡 Interested in **Full-Stack Development & UI/UX**
+* 🛠️ Love turning real-world problems into software solutions
+* 🎯 Always trying to write cleaner and better code
+* ⚡ Fun fact: **I enjoy building things from scratch!**
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,jquery" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 More Projects Coming Soon...
+
+I'm constantly working on new ideas, experiments, and applications.
+
+Check out my repositories to see what I'm currently building 👇
+
+---
+
+## 🎯 What I'm Working On
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│   🚀 Building                              │
+│      Modern Web Applications               │
+│                                            │
+│   💻 Improving                             │
+│      Full-Stack Development Skills         │
+│                                            │
+│   🎨 Exploring                             │
+│      UI/UX & Creative Web Design           │
+│                                            │
+│   📚 Learning                              │
+│      New Technologies & Best Practices     │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+---
+
+## 📈 My Developer Journey
+
+```text
+Learning
+   │
+   ▼
+Building Projects
+   │
+   ▼
+Solving Real Problems
+   │
+   ▼
+Improving My Skills
+   │
+   ▼
+Building Better Software 🚀
+```
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Developer Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
