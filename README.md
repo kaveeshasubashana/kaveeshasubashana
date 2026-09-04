@@ -1,4 +1,4 @@
-# 👋 Hey, I'm YOUR_NAME!
+#                          👋 Hey, I'm YOUR_NAME!
 
 ### 💻 Full-Stack Developer | Laravel Developer | UI/UX Enthusiast
 
@@ -55,56 +55,6 @@ I'm a passionate developer who enjoys building **modern web applications, busine
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🌐 More Projects Coming Soon...
-
-I'm constantly working on new ideas, experiments, and applications.
-
-Check out my repositories to see what I'm currently building 👇
-
----
-
-## 🎯 What I'm Working On
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🚀 Building                              │
-│      Modern Web Applications               │
-│                                            │
-│   💻 Improving                             │
-│      Full-Stack Development Skills         │
-│                                            │
-│   🎨 Exploring                             │
-│      UI/UX & Creative Web Design           │
-│                                            │
-│   📚 Learning                              │
-│      New Technologies & Best Practices     │
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
----
-
-## 📈 My Developer Journey
-
-```text
-Learning
-   │
-   ▼
-Building Projects
-   │
-   ▼
-Solving Real Problems
-   │
-   ▼
-Improving My Skills
-   │
-   ▼
-Building Better Software 🚀
-```
 
 ---
 
